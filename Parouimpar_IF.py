@@ -12,8 +12,8 @@ numero = input("Digite um número: ")
 
 if numero.isdigit():
     numero = int(numero)
-    time.sleep(1)
     print("Verificando aguarde...")
+    time.sleep(1)
     if numero % 2 ==0:
         print(f"O número {numero} é PAR!")
     else:
