@@ -16,4 +16,7 @@ print("Tente adivinhar qual palavra eu estou pensando ...".center(20))
 vazio = ""
 print()
 
+while True:
+    letra = lista_de_palavras.append("Digite uma letra: ")
+
 
