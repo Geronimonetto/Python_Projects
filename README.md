@@ -5,7 +5,7 @@ Esses projetos foram desenvolvidos quando estava estudando python mesmo antes de
 ## Linguagem usada no projeto:
 
 * **Python** 
-![Imagem do python](img/python.jpg)
+![logo do python](https://br.freepik.com/icones-gratis/linguagem-python_692194.htm)
 
 ### Ajuda
 
