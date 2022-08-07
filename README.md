@@ -12,10 +12,4 @@ Esses projetos foram desenvolvidos quando estava estudando python mesmo antes de
 
 Toda ajuda será bem vinda para o projeto, qualquer **feedback, sugestão ou correção**
 
-```Python
-def soma(a,b):
-    a = 2
-    b = 3
-    return a+b
 
- ```
