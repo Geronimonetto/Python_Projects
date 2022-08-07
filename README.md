@@ -4,7 +4,8 @@ Esses projetos foram desenvolvidos quando estava estudando python mesmo antes de
 
 ## Linguagem usada no projeto:
 
-* **Python**
+* **Python** 
+![Imagem do python](img/python.jpg)
 
 ### Ajuda
 
