@@ -6,6 +6,6 @@ Esses projetos foram desenvolvidos quando estava estudando python mesmo antes de
 
 * **Python**
 
-## Ajuda
+### Ajuda
 
 Toda ajuda será bem vinda para o projeto, qualquer **feedback, sugestão ou correção**
