@@ -1,6 +1,6 @@
 ## Projetos iniciais
 
-Seja Bem vindo Aos Projetos iniciais de Geronimo Morais, Sinta-se em casa para compartilhar e 
+Seja Bem vindo Aos Projetos de Geronimo Morais, Sinta-se em casa para compartilhar e 
 me enviar dicas via linkedin!! 
 
 <a href="https://www.linkedin.com/in/geronimo-neto-47b153225/"><u>linkedin.com/in/geronimo-neto</u></a></p>
