@@ -1,6 +1,9 @@
-# Projetos iniciais
+## Projetos iniciais
 
-Esses projetos foram desenvolvidos quando estava estudando python mesmo antes de conhecer qualquer framework ou API's
+Seja Bem vindo Aos Projetos iniciais de Geronimo Morais, Sinta-se em casa para compartilhar e 
+me enviar dicas via linkedin!! 
+
+Obrigado por tirar um tempinho para ver meus códigos.
 
 ## Linguagem usada no projeto:
 
@@ -8,7 +11,7 @@ Esses projetos foram desenvolvidos quando estava estudando python mesmo antes de
 
 ![logo do python](https://arquivo.devmedia.com.br/marketing/img/guia-python-37024.png)
 
-### Ajuda
+## Ajuda
 
 Toda ajuda será bem vinda para o projeto, qualquer **feedback, sugestão ou correção**
 
